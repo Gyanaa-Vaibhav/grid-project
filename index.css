@@ -156,7 +156,6 @@ input{
 
 .card{
     padding: 10px 20px;
-    border: 1px solid black;
     border-left: 10px solid #F0B428;
     border-radius: 10px;
     background-color: white;
@@ -177,7 +176,6 @@ input{
 
 .scard{
     padding: 20px;
-    border: 1px solid black;
     margin-top: 20px;
     background-color: white;
     border-radius: 10px;
